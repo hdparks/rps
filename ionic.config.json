@@ -1,0 +1,7 @@
+{
+  "name": "HDParks' Rock-Paper-Scissors",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

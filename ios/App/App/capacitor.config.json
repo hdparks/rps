@@ -1,0 +1,6 @@
+{
+	"appId": "hdparks.rps",
+	"appName": "HDParks' Rock-Paper-Scissors",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
